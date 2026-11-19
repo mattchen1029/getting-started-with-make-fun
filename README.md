@@ -49,9 +49,11 @@ The part people check first is the money, so here it is plainly:
   an on-chain escrow program on Solana. The escrow's code is public at
   [github.com/makedotfun/prize-escrow](https://github.com/makedotfun/prize-escrow).
 - **Winners are paid in USDC on Solana**, to their own wallet. No bank wire, no gift cards.
-- **Only placed entries are paid.** Finishing the task earns nothing on its own — there is no
-  participation prize. Read the payout curve on the bounty page before you build, so you know
-  how many places pay and how much each one gets.
+- **The prize pool pays only the placed entries.** Read the payout curve on the bounty page
+  before you build, so you know how many places pay and how much each one gets. Separately,
+  entries can earn a small participation reward — one of ours, ranked 53rd and outside the
+  paid places, earned $0.025, claimable once your balance reaches $0.25. It is a token
+  amount; the real money is in placing.
 
 ## What you need before you start
 
